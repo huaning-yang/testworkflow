@@ -1,0 +1,788 @@
+{
+    "id": "bista2022MaSek1",
+    "title": "Mathe Sek 1",
+    "children": [{
+            "id": "ab",
+            "title": "Anforderungsbereiche",
+            "description": "Zum Lösen mathematischer Aufgaben werden die prozessbezogenen Kompetenzen in unterschiedlicher Ausprägung benötigt. Diesbezüglich lassen sich drei Anforderungsbereiche für alle Schülerinnen und Schüler unterscheiden. Im Allgemeinen nehmen Anspruch und kognitive Komplexität von Anforderungsbereich I bis Anforderungsbereich III zu. Die Anforderungsbereiche sind für alle prozessbezogenen Kompetenzen wie folgt charakterisiert:",
+            "children": [{
+                    "notation": "1",
+                    "title": "Anforderungsbereich I: Reproduzieren",
+                    "description": "Dieser Anforderungsbereich umfasst die Wiedergabe und direkte Anwendung von grundlegenden Begriffen, Sätzen und Verfahren in einem abgegrenzten Gebiet und einem wiederholenden Zusammenhang."
+                }, {
+                    "notation": "2",
+                    "title": "Anforderungsbereich II: Zusammenhänge herstellen",
+                    "description": "Dieser Anforderungsbereich umfasst das selbstständige Auswählen, Anordnen, Darstellen und Bearbeiten bekannter Sachverhalte, indem Kenntnisse, Fertigkeiten und Fähigkeiten verknüpft werden, die in der Auseinandersetzung mit Mathematik auf verschiedenen Gebieten erworben wurden."
+                }, {
+                    "notation": "3",
+                    "title": "Anforderungsbereich  III: Verallgemeinern und Reflektieren",
+                    "description": "Dieser Anforderungsbereich umfasst das selbstständige Auswählen geeigneter Arbeitstechniken und Verfahren sowie das Bearbeiten komplexer oder unbekannter Sachverhalte u. a. mit dem Ziel, zu eigenen Problemformulierungen, Lösungen, Begründungen, Folgerungen, Interpretationen oder Wertungen zu gelangen."
+                }
+            ]
+        }, {
+            "id": "stdProzess",
+            "title": "Prozessbezogene Kompetenzen",
+            "children": [{
+                    "notation": "1",
+                    "title": "Mathematisch argumentieren",
+                    "description": "Zu dieser Kompetenz gehören sowohl das Entwickeln eigenständiger, situationsangemessener mathematischer Argumentationen (wie Begründungen, Beweise), als auch das Erläutern, Prüfen und Begründen von Lösungswegen und das begründete Äußern von Vermutungen. Das Spektrum reicht dabei von einfachen Plausibilitätsargumenten über inhaltlich-anschauliche Begründungen bis hin zu Argumentationsketten.",
+                    "children": [{
+                            "notation": "1.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "1.1.1",
+                                    "title": "geben vertraute Argumentationen wieder (wie Rechnungen, Verfahren, Herleitungen, Sätze),"
+                                }, {
+                                    "notation": "1.1.2",
+                                    "title": "formulieren typische Fragen, die auf Argumentationen zielen („Wie verändert sich …?“, „Ist das immer so …?“),"
+                                }, {
+                                    "notation": "1.1.3",
+                                    "title": "begründen angemessen auf Basis von Alltagswissen,"
+                                }
+                            ]
+                        }, {
+                            "notation": "1.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "1.2.1",
+                                    "title": "entwickeln und erläutern überschaubare mehrschrittige Argumentationen,"
+                                }, {
+                                    "notation": "1.2.2",
+                                    "title": "erläutern Lösungswege und prüfen sie u. a. auf Konsistenz,"
+                                }, {
+                                    "notation": "1.2.3",
+                                    "title": "bewerten Ergebnisse und Aussagen auch bzgl. ihres Anwendungskontextes,"
+                                }, {
+                                    "notation": "1.2.4",
+                                    "title": "erläutern mathematische Zusammenhänge, Ordnungen und logische Strukturen,"
+                                }
+                            ]
+                        }, {
+                            "notation": "1.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "1.3.1",
+                                    "title": "entwickeln und erläutern komplexe Argumentationen,"
+                                }, {
+                                    "notation": "1.3.2",
+                                    "title": "bewerten verschiedene Argumentationen (z. B. in Texten und Darstellungen aus digitalen Medien),"
+                                }, {
+                                    "notation": "1.3.3",
+                                    "title": "stellen selbstständig Fragen, die für die Mathematik charakteristisch sind, und äußern begründet Vermutungen."
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "notation": "2",
+                    "title": "Mathematisch kommunizieren",
+                    "description": "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien.",
+                    "children": [{
+                            "notation": "2.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "2.1.1",
+                                    "title": "formulieren einfache mathematische Sachverhalte mit eigenen Worten und mithilfe mathematischer Begriffe mündlich und schriftlich,"
+                                }, {
+                                    "notation": "2.1.2",
+                                    "title": "entnehmen Informationen aus einfachen mathematikhaltigen Texten und Abbildungen,"
+                                }, {
+                                    "notation": "2.1.3",
+                                    "title": "reagieren  sach- und adressatengerecht auf Fragen und Kritik zu eigenen Lösungen,"
+                                }
+                            ]
+                        }, {
+                            "notation": "2.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "2.2.1",
+                                    "title": "stellen Überlegungen, Lösungswege bzw. Ergebnisse und Verfahren verständlich dar,"
+                                }, {
+                                    "notation": "2.2.2",
+                                    "title": "erfassen, interpretieren und deuten komplexere mathematikhaltige Texte und Abbildungen sinnentnehmend und strukturieren Informationen,"
+                                }, {
+                                    "notation": "2.2.3",
+                                    "title": "Verwenden die mathematische Fachsprache situationsangemessen und erklären ihre Bedeutung,"
+                                }, {
+                                    "notation": "2.2.4",
+                                    "title": "gehen fachbezogen auf Äußerungen von anderen zu mathematischen Inhalten ein (z. B. konstruktiver Umgang mit Fehlern, Weiterführen mathematischer Ideen),"
+                                }
+                            ]
+                        }, {
+                            "notation": "2.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "2.3.1",
+                                    "title": "präsentieren sachgerecht komplexe mathematische Sachverhalte mündlich und schriftlich,"
+                                }, {
+                                    "notation": "2.3.2",
+                                    "title": "interpretieren und beurteilen komplexe mathematische Texte sinnentnehmend,"
+                                }, {
+                                    "notation": "2.3.3",
+                                    "title": "vergleichen und bewerten Äußerungen von anderen zu mathematischen Inhalten sachlich und fachlich angemessen."
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "notation": "3",
+                    "title": "Probleme mathematisch lösen",
+                    "description": "Diese Kompetenz beinhaltet, ausgehend vom Erkennen und Formulieren mathematischer Probleme, das Auswählen geeigneter Heurismen sowie das Entwickeln und Ausführen geeigneter Lösungswege. Das Spektrum reicht vom Bearbeiten vorgegebener und selbst formulierter Probleme auf der einen Seite bis hin zum Überprüfen der Plausibilität von Ergebnissen, dem Finden von Lösungsideen und dem Reflektieren von Lösungswegen auf der anderen Seite. Geeignete Heurismen (u. a. Skizzen erstellen, systematisch probieren, rückwärts arbeiten, zerlegen und ergänzen) zum Problemlösen werden ausgewählt und angewendet.",
+                    "children": [{
+                            "notation": "3.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "3.1.1",
+                                    "title": "geben Heurismen an (z. B. Skizze erstellen, systematisch probieren),"
+                                }, {
+                                    "notation": "3.1.2",
+                                    "title": "lösen einfache Probleme mit bekannten Heurismen (z. B. systematisches Probieren),"
+                                }
+                            ]
+                        }, {
+                            "notation": "3.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "3.2.1",
+                                    "title": "formulieren  Problemstellungen,"
+                                }, {
+                                    "notation": "3.2.2",
+                                    "title": "wählen geeignete Heurismen zur Lösung entsprechender Probleme aus,"
+                                }, {
+                                    "notation": "3.2.3",
+                                    "title": "überprüfen  die Plausibilität von Ergebnissen,"
+                                }
+                            ]
+                        }, {
+                            "notation": "3.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "3.3.1",
+                                    "title": "lösen anspruchsvolle, komplexe oder offen formulierte Probleme,"
+                                }, {
+                                    "notation": "3.3.2",
+                                    "title": "reflektieren das Finden von Lösungsideen, vergleichen und beurteilen verschiedene Lösungswege."
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "notation": "4",
+                    "title": "Mathematisch modellieren",
+                    "description": "Beim mathematischen Modellieren geht es um das Lösen eines realen Problems mit Hilfe von Mathematik. Von besonderer Bedeutung dabei ist das Übersetzen zwischen Realsituationen und mathematischen Begriffen, Resultaten oder Methoden. Typische Teilschritte des Modellierens sind das Strukturieren und Vereinfachen gegebener Realsituationen, das Übersetzen realer Gegebenheiten in mathematische Modelle, das Arbeiten im mathematischen Modell, das Interpretieren mathematischer Ergebnisse in Bezug auf Realsituationen und das Überprüfen von Ergebnissen sowie des Modells im Hinblick auf Stimmigkeit und Angemessenheit bezogen auf die Realsituation. Das Spektrum reicht von Standardmodellen (z. B. proportionale Zuordnung) bis hin zu komplexeren Modellierungen (z. B. geometrische Konstruktionen, Sinusfunktion, Exponentialfunktion, Zufallsexperimente).",
+                    "children": [{
+                            "notation": "4.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "4.1.1",
+                                    "title": "ordnen einfachen Realsituationen aus dem Alltag mathematische Objekte zu,"
+                                }, {
+                                    "notation": "4.1.2",
+                                    "title": "nutzen bekannte und direkt erkennbare Modelle (z. B. Proportionalität bzw. Dreisatz),"
+                                }, {
+                                    "notation": "4.1.3",
+                                    "title": "prüfen die Passung der Resultate zur Aufgabenstellung,"
+                                }
+                            ]
+                        }, {
+                            "notation": "4.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "4.2.1",
+                                    "title": "wählen ein geeignetes mathematisches Modell aus,"
+                                }, {
+                                    "notation": "4.2.2",
+                                    "title": "nehmen Mathematisierungen vor, die mehrere Schritte erfordern,"
+                                }, {
+                                    "notation": "4.2.3",
+                                    "title": "interpretieren Ergebnisse einer Modellierung,"
+                                }, {
+                                    "notation": "4.2.4",
+                                    "title": "prüfen Ergebnisse einer Modellierung auf Plausibilität in Bezug auf die Ausgangssituation,"
+                                }, {
+                                    "notation": "4.2.5",
+                                    "title": "ordnen einem mathematischen Modell passende Situationen zu,"
+                                }
+                            ]
+                        }, {
+                            "notation": "4.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "4.3.1",
+                                    "title": "modellieren komplexe oder unvertraute Situationen und entwickeln ggf. eigene Modelle,"
+                                }, {
+                                    "notation": "4.3.2",
+                                    "title": "reflektieren und beurteilen verwendete mathematische Modelle kritisch, z. B. in Bezug auf die Realsituation,"
+                                }, {
+                                    "notation": "4.3.3",
+                                    "title": "entscheiden, ob der Modellierungskreislauf erneut durchlaufen werden sollte."
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "notation": "5",
+                    "title": "Mathematisch darstellen",
+                    "description": "Diese Kompetenz umfasst das Erzeugen und Vernetzen von sowie das Umgehen mit mathematischen Darstellungen - der grafisch-visuellen, algebraisch-formalen, numerisch-tabellarischen, verbal-sprachlichen Darstellung. Das Spektrum reicht von Anwenden, Interpretieren und Unterscheiden von Standarddarstellungen über den Wechsel geeigneter mathematischer Darstellungen bis hin zum Erstellen eigener Darstellungen, die dem Strukturieren und Dokumentieren individueller Überlegungen dienen.",
+                    "children": [{
+                            "notation": "5.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "5.1.1",
+                                    "title": "nutzen und erzeugen vertraute und geübte Darstellungen von mathematischen Objekten und Situationen,"
+                                }, {
+                                    "notation": "5.1.2",
+                                    "title": "interpretieren vertraute Darstellungen,"
+                                }
+                            ]
+                        }, {
+                            "notation": "5.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "5.2.1",
+                                    "title": "wählen eine Darstellung passend zur Problemstellung aus,"
+                                }, {
+                                    "notation": "5.2.2",
+                                    "title": "wechseln sachgerecht zwischen mathematischen Darstellungen und erklären, wie sie vernetzt sind,"
+                                }, {
+                                    "notation": "5.2.3",
+                                    "title": "übersetzen symbolische und formale Sprache in natürliche Sprache und umgekehrt,"
+                                }
+                            ]
+                        }, {
+                            "notation": "5.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "5.3.1",
+                                    "title": "entwickeln eigene Darstellungen,"
+                                }, {
+                                    "notation": "5.3.2",
+                                    "title": "analysieren und beurteilen verschiedene Formen der Darstellung entsprechend ihres Zwecks,"
+                                }, {
+                                    "notation": "5.3.3",
+                                    "title": "interpretieren nicht vertraute Darstellungen und beurteilen ihre Aussagekraft."
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "notation": "6",
+                    "title": "Mit mathematischen Objekten umgehen",
+                    "description": "Diese Kompetenz beinhaltet das verständige Umgehen mit mathematischen Objekten wie Zahlen, Größen, Symbolen, Variablen, Termen, Formeln, Gleichungen und Funktionen sowie in der Geometrie Strecken, Winkeln und Kreisen mit und ohne Hilfsmittel. Das Spektrum reicht hier von einfachen, überschaubaren Routineverfahren bis hin zu komplexen Verfahren einschließlich deren reflektierender Bewertung. Diese Kompetenz beinhaltet auch Faktenwissen und Regelwissen für ein zielgerichtetes und effizientes Bearbeiten von mathematischen Aufgabenstellungen.",
+                    "children": [{
+                            "notation": "6.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "6.1.1",
+                                    "title": "verwenden Routineverfahren (z. B. Lösen einer linearen Gleichung),"
+                                }, {
+                                    "notation": "6.1.2",
+                                    "title": "gehen mit vertrauten mathematischen Objekten (z. B. Strecken, Termen, Gleichungen) um,"
+                                }
+                            ]
+                        }, {
+                            "notation": "6.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "6.2.1",
+                                    "title": "führen komplexere Lösungs- und Kontrollverfahren aus,"
+                                }, {
+                                    "notation": "6.2.2",
+                                    "title": "beschreiben die innere Struktur mathematischer Objekte (z. B. von Termen) und gehen flexibel und sicher mit ihnen um,"
+                                }
+                            ]
+                        }, {
+                            "notation": "6.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "6.3.1",
+                                    "title": "bewerten Lösungs- und Kontrollverfahren hinsichtlich ihrer Effizienz,"
+                                }, {
+                                    "notation": "6.3.2",
+                                    "title": "beschreiben die innere Struktur von Lösungsverfahren, erfassen deren Allgemeingültigkeit und übertragen die Verfahren auf neue Situationen."
+                                }
+                            ]
+                        }
+                    ]
+                }, {
+                    "notation": "7",
+                    "title": "Mit Medien mathematisch umgehen",
+                    "description": "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien.",
+                    "children": [{
+                            "notation": "7.1",
+                            "title": "Reproduzieren",
+                            "children": [{
+                                    "notation": "7.1.1",
+                                    "title": "verwenden allgemeine Medien zur Kommunikation (z. B. Recherche in Fachliteratur oder Internet, Nutzung von Lernplattformen) und zur Präsentation mathematischer Inhalte in Situationen, in denen der Einsatz geübt wurde,"
+                                }, {
+                                    "notation": "7.1.2",
+                                    "title": "nutzen analoge und digitale Lernumgebungen zum Lernen von Mathematik,"
+                                }, {
+                                    "notation": "7.1.3",
+                                    "title": "nutzen analoge und digitale Mathematikwerkzeuge (z. B. wissenschaftlichen Taschenrechner), die aus dem Unterricht vertraut sind,"
+                                }, {
+                                    "notation": "7.1.4",
+                                    "title": "ziehen Informationen aus mathematikhaltigen Darstellungen in Alltagsmedien,"
+                                }
+                            ]
+                        }, {
+                            "notation": "6.2",
+                            "title": "Zusammenhänge  herstellen",
+                            "children": [{
+                                    "notation": "7.2.1",
+                                    "title": "nutzen analoge und digitale Mathematikwerkzeuge (z. B. Geometriesoftware, Tabellenkalkulation, Computeralgebrasystem, Stochastiktool ) zum Problemlösen, Entdecken, Modellieren, Daten verarbeiten, Kontrollieren und Darstellungswechseln etc.,"
+                                }, {
+                                    "notation": "7.2.2",
+                                    "title": "nutzen weitere mathematikspezifische Medien (z. B. Apps zur Lernstandsbestimmung, Erklärvideos zum Verstehen, Programme zum Üben) zum selbstgesteuerten Lernen und Anwenden von Mathematik,"
+                                }, {
+                                    "notation": "7.2.3",
+                                    "title": "nutzen bekannte Algorithmen mit digitalen Mathematikwerkzeugen,"
+                                }, {
+                                    "notation": "7.2.4",
+                                    "title": "vergleichen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"
+                                }, {
+                                    "notation": "7.2.5",
+                                    "title": "wählen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung bewusst aus,"
+                                }
+                            ]
+                        }, {
+                            "notation": "7.3",
+                            "title": "Verallgemeinern und Reflektieren",
+                            "children": [{
+                                    "notation": "7.3.1",
+                                    "title": "reflektieren Möglichkeiten und Grenzen der Nutzung mathematikspezifischer Medien, auch im Vergleich zwischen analogem und digitalem Medium,"
+                                }, {
+                                    "notation": "7.3.2",
+                                    "title": "konzipieren und erstellen selbst analoge und digitale Medien um mathematische Sachverhalte darzustellen oder zu bearbeiten und stellen ihre Ergebnisse vor (z. B. Präsentation, Videos),"
+                                }, {
+                                    "notation": "7.3.3",
+                                    "title": "beurteilen analoge und digitale Medien kriteriengeleitet je nach Zielsetzung,"
+                                }, {
+                                    "notation": "7.3.4",
+                                    "title": "beurteilen mathematikhaltige Informationen und Darstellungen in Alltagsmedien unter mathematischen Gesichtspunkten,"
+                                }, {
+                                    "notation": "7.3.5",
+                                    "title": "setzen bekannte mathematische Verfahren mithilfe digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation) als Algorithmus um,"
+                                }, {
+                                    "notation": "7.3.6",
+                                    "title": "nutzen Algorithmen mit Hilfe digitaler Werkzeuge, um den jeweils zugrundeliegenden mathematischen Inhalt zu untersuchen."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "stdInhaltESA",
+            "title": "Inhaltsbezogene Kompetenzen ESA",
+            "description": "Bei  den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt.",
+            "children": [{
+                    "notation": "1",
+                    "title": "Leitidee Zahl und Operation",
+                    "description": "Diese  Leitidee umfasst sinntragende Vorstellungen und Darstellungen von Zahlen und Operationen sowie die Nutzung von Rechengesetzen und Kontrollverfahren. Dazu gehört zum Beispiel die sachgerechte Nutzung von Prozent- und Zinsrechnung. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Arithmetik und Algebra",
+                    "children": [{
+                            "notation": "1.1",
+                            "title": "nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,"
+                        }, {
+                            "notation": "1.3",
+                            "title": "nutzen sinntragende Vorstellungen von Operationen rationaler Zahlen (z. B. schrittweiser, halbschriftlicher Verfahren),"
+                        }, {
+                            "notation": "1.4",
+                            "title": "untersuchen Zahlen nach ihren Faktoren, in einfachen Fällen ohne digitale Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "1.5",
+                            "title": "stellen Zahlen der Situation angemessen dar, unter anderem in Zehnerpotenzschreibweise,"
+                        }, {
+                            "notation": "1.6",
+                            "title": "rechnen mit natürlichen, ganzen und rationalen Zahlen, die im täglichen Leben vorkommen, sowohl zur Kontrolle als auch im Kopf und erklären die Bedeutung der Rechenoperationen,"
+                        }, {
+                            "notation": "1.7",
+                            "title": "begründen die Notwendigkeit von Zahlbereichserweiterungen von N nach Z und Q an Beispielen,"
+                        }, {
+                            "notation": "1.8",
+                            "title": "erläutern an Beispielen die verschiedenen Vorstellungen zum Bruchbegriff (insbesondere Teile eines oder mehrerer Ganzer, relative Anteile),"
+                        }, {
+                            "notation": "1.9",
+                            "title": "nutzen Rechengesetze (z. B. Kommutativ-, Assoziativ-, Distributivgesetz), auch zum vorteilhaften Rechnen,"
+                        }, {
+                            "notation": "1.10",
+                            "title": "nutzen Überschlagsrechnungen zur Orientierung und zur Kontrolle,"
+                        }, {
+                            "notation": "1.11",
+                            "title": "runden Zahlen dem Sachverhalt entsprechend sinnvoll,"
+                        }, {
+                            "notation": "1.12",
+                            "title": "prüfen und interpretieren Ergebnisse, auch in Sachsituationen,"
+                        }, {
+                            "notation": "1.13",
+                            "title": "erläutern an Beispielen den Zusammenhang zwischen Rechenoperationen und deren Umkehrungen und nutzen diese Zusammenhänge,"
+                        }, {
+                            "notation": "1.14",
+                            "title": "verwenden Prozent- und Zinsrechnung vorstellungsbasiert (z. B. Prozentstreifen) und sachgerecht,"
+                        }, {
+                            "notation": "1.15",
+                            "title": "erläutern Potenzen und Wurzeln und berechnen einfache Potenzen und Wurzeln (Quadrat- und Kubikwurzeln),"
+                        }, {
+                            "notation": "1.17",
+                            "title": "wählen und beschreiben Vorgehensweisen und Verfahren, denen Algorithmen bzw. Kalküle zu Grunde liegen und führen diese aus (z. B. schriftliche Division)."
+                        }
+                    ]
+                }, {
+                    "notation": "2",
+                    "title": "Leitidee Größen und Messen",
+                    "description": "Diese Leitidee umfasst das Bestimmen und Deuten von Größen unter Berücksichtigung des Grundprinzips des Messens. Dabei spielen neben Längen-, Flächen- und Volumenmessungen weitere Größen wie Winkel und Zeitspannen sowie die Berücksichtigung der Sachsituation einschließlich Vorstellungen über geeignete Repräsentanten eine Rolle. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Arithmetik, Algebra und Geometrie.",
+                    "children": [{
+                            "notation": "2.1",
+                            "title": "nutzen das Grundprinzip des Messens als Vergleichen mit (Standard-)Einheiten, z. B. bei der Bestimmung von Längen, Flächeninhalten und Volumina, auch in Sachsituationen,"
+                        }, {
+                            "notation": "2.2",
+                            "title": "wählen Einheiten von Größen situationsgerecht aus (insbesondere für Zeitspannen, Masse, Geld, Länge, Fläche, Volumen und Winkel) und wandeln sie ggf. um,"
+                        }, {
+                            "notation": "2.3",
+                            "title": "schätzen Größen mit Hilfe von Vorstellungen über geeignete Repräsentanten (z. B. typisches Objekt für eine Standardgröße) und nutzen dies auch zur Plausibilitätsprüfung,"
+                        }, {
+                            "notation": "2.4",
+                            "title": "ermitteln Flächeninhalt und Umfang von Rechteck, Dreieck und Kreis sowie daraus zusammengesetzten Figuren, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "2.5",
+                            "title": "ermitteln Volumen und Oberflächeninhalt von Quader, Prisma, Pyramide und Zylinder sowie daraus zusammengesetzten Körpern, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "2.6",
+                            "title": "nehmen in ihrer Umwelt gezielt Messungen vor, auch mit Hilfe digitaler Medien (als Informationsquelle oder Messinstrument), entnehmen Maßangaben aus Quellenmaterial, führen damit Berechnungen durch und bewerten die Ergebnisse sowie den gewählten Weg in Bezug auf die Sachsituation,"
+                        }, {
+                            "notation": "2.7",
+                            "title": "berechnen Streckenlängen und Winkelgrößen, auch unter Nutzung des Satzes von Pythagoras und Ähnlichkeitsbeziehungen, auch mit Hilfe digitaler Mathematikwerkzeuge."
+                        }
+                    ]
+                }, {
+                    "notation": "3",
+                    "title": "Leitidee Strukturen und funktionaler Zusammenhang",
+                    "description": "Die Leitidee umfasst funktionale Beziehungen zwischen Zahlen, Daten bzw. Größen sowie deren Darstellungen und Eigenschaften, auch unter Nutzung geeigneter digitaler Mathematikwerkzeuge. Das umfasst auch das Lösen von Gleichungen und linearen Gleichungssystemen und die Anwendung verschiedener Funktionenklassen bei der Bearbeitung von Problemen und in Sachsituationen. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Algebra und Funktionen.",
+                    "children": [{
+                            "notation": "3.1",
+                            "title": "verwenden Variablen je nach Kontext als eine feste Zahl, als eine beliebige Zahl aus einem Zahlbereich und als Veränderliche in einem bestimmten Bereich und können Beispiele für die unterschiedliche Verwendung von Variablen nennen,"
+                        }, {
+                            "notation": "3.2",
+                            "title": "stellen einfache Terme, um allgemeine Zusammenhänge im Sachkontext zu beschreiben, formen sie um und interpretieren sie,"
+                        }, {
+                            "notation": "3.3",
+                            "title": "nutzen die Prozentrechnung bei Wachstumsprozessen (beispielsweise bei der Zinsrechnung), auch unter Verwendung digitaler Werkzeuge,"
+                        }, {
+                            "notation": "3.4",
+                            "title": "nutzen Maßstäbe beim Lesen und Anfertigen von Zeichnungen situationsgerecht,"
+                        }, {
+                            "notation": "3.5",
+                            "title": "erkennen und verwenden funktionale Zusammenhänge in Alltagssituationen und stellen diese in verschiedenen Repräsentationen dar (sprachlich, tabellarisch, grafisch, lineare Funktionen auch algebraisch) und können zwischen diesen Darstellungsformen wechseln, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.6",
+                            "title": "unterscheiden proportionale und antiproportionale Zusammenhänge in Sachsituationen und stellen damit Berechnungen an,"
+                        }, {
+                            "notation": "3.7",
+                            "title": "lösen realitätsnahe Probleme im Zusammenhang mit linearen, proportionalen und antiproportionalen Zuordnungen, ggf. auch mit Hilfe des Dreisatzes, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.8",
+                            "title": "lösen einfache lineare Gleichungen numerisch (systematisches Probieren), algebraisch (Umformen) und grafisch (mit Hilfe von Funktionsgraphen), auch unter Einsatz digitaler Mathematikwerkzeuge, und vergleichen verschiedene Lösungsverfahren im Hinblick auf die jeweilige Fragestellung oder das Problem,"
+                        }, {
+                            "notation": "3.10",
+                            "title": "bestimmen kennzeichnende Merkmale von linearen Funktionen im Funktionsterm, Graph und der Wertetabelle und stellen Beziehungen zwischen den Darstellungen her,"
+                        }, {
+                            "notation": "3.11",
+                            "title": "wenden lineare Funktionen in Sachsituationen an,"
+                        }, {
+                            "notation": "3.13",
+                            "title": "interpretieren die Steigung linearer Funktionen im Sachzusammenhang,"
+                        }, {
+                            "notation": "3.14",
+                            "title": "geben zu vorgegebenen linearen Funktionen Sachsituationen an, die mit Hilfe dieser Funktion beschrieben werden können."
+                        }
+                    ]
+                }, {
+                    "notation": "4",
+                    "title": "Leitidee Raum und Form",
+                    "description": "Diese Leitidee ist auf die Entwicklung des geometrischen Vorstellungsvermögens gerichtet. Sie beinhaltet den Umgang mit Objekten in Ebene und Raum. Es geht hier sowohl um Eigenschaften und Beziehungen dieser Objekte als auch um deren Darstellungen mit geeigneten Medien einschließlich digitaler Mathematikwerkzeuge. Das zugehörige mathematische Sachgebiet der Sekundarstufe I ist die Geometrie.",
+                    "children": [{
+                            "notation": "4.1",
+                            "title": "benennen und beschreiben geometrische Objekte und Beziehungen in der Umwelt mit Hilfe mathematischer Modelle (Punkte, Winkel, Strecken, Geraden, Flächen, Körper) und ihre Zusammenhänge,"
+                        }, {
+                            "notation": "4.2",
+                            "title": "entwickeln Vorstellungen im zwei- und dreidimensionalen Raum und operieren (insbesondere verschieben, drehen, spiegeln) gedanklich mit den darin enthaltenen Objekten (Punkten, Strecken, Flächen und Körpern),"
+                        }, {
+                            "notation": "4.3",
+                            "title": "stellen ebene geometrische Figuren (z. B. Dreiecke, Vierecke) und elementare geometrische Abbildungen (z. B. Verschiebungen, Drehungen, Spiegelungen, zentrische Streckungen) im ebenen kartesischen Koordinatensystem dar, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "4.4",
+                            "title": "fertigen Netze, Schrägbilder und Modelle von ausgewählten Körpern (z. B. Quader, Prisma, Pyramide) an - auch mit Hilfe digitaler Medien - und erkennen Körper aus ihren entsprechenden Darstellungen,"
+                        }, {
+                            "notation": "4.5",
+                            "title": "analysieren und klassifizieren geometrische Objekte der Ebene (insbesondere Winkel, Dreiecke, Vierecke) und des Raumes (insbesondere Quader, Prismen, Pyramiden, Zylinder, Kegel, Kugel),"
+                        }, {
+                            "notation": "4.6",
+                            "title": "erkennen und beschreiben Eigenschaften und Beziehungen geometrischer Objekte (z. B. Symmetrie, Idee der Kongruenz, Lagebeziehungen),"
+                        }, {
+                            "notation": "4.7",
+                            "title": "wenden Sätze der ebenen Geometrie (insbesondere den Satz des Pythagoras und Ähnlichkeitsbeziehungen) bei Konstruktionen und Berechnungen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "4.8",
+                            "title": "zeichnen und konstruieren geometrische Figuren unter Verwendung angemessener Medien wie Zirkel, Geodreieck oder digitaler Mathematikwerkzeuge."
+                        }
+                    ]
+                }, {
+                    "notation": "5",
+                    "title": "Leitidee Daten und Zufall",
+                    "description": "Diese Leitidee umfasst zwei Säulen, die beschreibende Statistik und die Wahrscheinlichkeitsrechnung zur Modellierung von zufallsabhängigen Vorgängen und Risiken. Wahrscheinlichkeiten können als Prognosen von relativen Häufigkeiten bei zufallsabhängigen Vorgängen gedeutet werden, wodurch die beiden Säulen verknüpft werden. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Stochastik und Funktionen. Es werden Begriffe und Methoden zur Erhebung, Aufbereitung und Interpretation von statistischen Daten vernetzt mit solchen zur Beschreibung und Modellierung zufallsabhängiger Situationen. Die stochastische Simulation spielt bei der Verknüpfung eine wichtige Rolle. Der Umgang mit Daten und Zufallserscheinungen im Alltag und Zufallsexperimenten geschieht auch unter Verwendung einschlägiger digitaler Mathematikwerkzeuge, hier vor allem Tabellenkalkulation und Stochastiktools.",
+                    "children": [{
+                            "notation": "5.1",
+                            "title": "werten grafische Darstellungen und Tabellen von statistischen Erhebungen aus, auch mit Hilfe von Tabellenkalkulation oder Stochastiktools,"
+                        }, {
+                            "notation": "5.2",
+                            "title": "nutzen Simulationen um stochastische Fragen zu entscheiden "
+                        }, {
+                            "notation": "5.3",
+                            "title": "planen einfache Befragungen,"
+                        }, {
+                            "notation": "5.4",
+                            "title": "sammeln systematisch Daten (z. B. Messwerte, Daten aus Befragungen oder Internet), organisieren sie in Tabellen und stellen sie grafisch dar, auch unter Verwendung geeigneter Hilfsmittel wie Tabellenkalkulation oder Stochastiktools,"
+                        }, {
+                            "notation": "5.5",
+                            "title": "ermitteln und interpretieren Kenngrößen (z. B. Minimum, Maximum, arithmetisches Mittel, Median, Spannweite),"
+                        }, {
+                            "notation": "5.6",
+                            "title": "erstellen und interpretieren Diagramme (z. B. Säulen- oder Balkendiagramm, Kreisdiagramm, Liniendiagramm), auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "5.7",
+                            "title": "reflektieren mit Hilfe der mathematischen Kenntnisse den Umgang mit und die Darstellung von Daten in Medien, etwa in Bezug auf die Absicht und mögliche Wirkungen der Darstellung,"
+                        }, {
+                            "notation": "5.8",
+                            "title": "beschreiben Zufallserscheinungen aus dem Alltag und ihre Darstellung in Medien,"
+                        }, {
+                            "notation": "5.9",
+                            "title": "nutzen bei der Durchführung von Zufallsexperimenten die auftretenden relativen Häufigkeiten als Schätzwerte von Wahrscheinlichkeiten, die bei wachsendem Stichprobenumfang besser werden,"
+                        }, {
+                            "notation": "5.10",
+                            "title": "bestimmen Wahrscheinlichkeiten bei einfachen Zufallsexperimenten, ohne und mit Hilfe digitaler Mathematikwerkzeuge."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "id": "stdInhaltMSA",
+            "title": "Inhaltsbezogene Kompetenzen MSA",
+            "description": "Bei den folgenden inhaltsbezogenen Kompetenzen ist grundsätzlich daran gedacht, dass diese mit und ohne Medien erreicht werden sollen. Abweichungen davon werden explizit an den entsprechenden Stellen erwähnt.",
+            "children": [{
+                    "notation": "1",
+                    "title": "Leitidee Zahl und Operation",
+                    "description": "Diese Leitidee umfasst sinntragende Vorstellungen und Darstellungen von Zahlen und Operationen sowie die Nutzung von Rechengesetzen und Kontrollverfahren. Dazu gehören die sachgerechte Nutzung von Prozent- und Zinsrechnung ebenso wie kombinatorische Überlegungen und Verfahren, denen Algorithmen zu Grunde liegen. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Arithmetik, Algebra und Stochastik.",
+                    "children": [{
+                            "notation": "1.1",
+                            "title": "nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,"
+                        }, {
+                            "notation": "1.2",
+                            "title": "nutzen sinntragende Vorstellungen von reellen Zahlen (z. B. Vollständigkeit der Zahlengerade),"
+                        }, {
+                            "notation": "1.3",
+                            "title": "nutzen sinntragende Vorstellungen von Operationen rationaler Zahlen (z. B. schrittweiser, halbschriftlicher Verfahren),"
+                        }, {
+                            "notation": "1.4",
+                            "title": "untersuchen Zahlen nach ihren Faktoren, in einfachen Fällen ohne digitale Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "1.5",
+                            "title": "stellen Zahlen der Situation angemessen dar, unter anderem in Zehnerpotenzschreibweise,"
+                        }, {
+                            "notation": "1.6",
+                            "title": "rechnen mit natürlichen, ganzen und rationalen Zahlen, die im täglichen Leben vorkommen, sowohl zur Kontrolle als auch im Kopf und erklären die Bedeutung der Rechenoperationen,"
+                        }, {
+                            "notation": "1.7",
+                            "title": "begründen die Notwendigkeit von Zahlbereichserweiterungen von N nach Z und Q sowie von Q nach R an Beispielen,"
+                        }, {
+                            "notation": "1.8",
+                            "title": "erläutern an Beispielen die verschiedenen Vorstellungen zum Bruchbegriff (insbesondere Teile eines oder mehrerer Ganzer, relative Anteile),"
+                        }, {
+                            "notation": "1.9",
+                            "title": "nutzen Rechengesetze (z. B. Kommutativ-, Assoziativ-, Distributivgesetz), auch zum vorteilhaften Rechnen,"
+                        }, {
+                            "notation": "1.10",
+                            "title": "nutzen Überschlagsrechnungen zur Orientierung und zur Kontrolle,"
+                        }, {
+                            "notation": "1.11",
+                            "title": "runden Zahlen dem Sachverhalt entsprechend sinnvoll,"
+                        }, {
+                            "notation": "1.12",
+                            "title": "prüfen und interpretieren Ergebnisse, auch in Sachsituationen,"
+                        }, {
+                            "notation": "1.13",
+                            "title": "erläutern an Beispielen den Zusammenhang zwischen Rechenoperationen und deren Umkehrungen und nutzen diese Zusammenhänge,"
+                        }, {
+                            "notation": "1.14",
+                            "title": "verwenden Prozent- und Zinsrechnung vorstellungsbasiert (z. B. Prozentstreifen) und sachgerecht,"
+                        }, {
+                            "notation": "1.15",
+                            "title": "erläutern Potenzen und Wurzeln und berechnen einfache Beispiele ohne digitale Medien,"
+                        }, {
+                            "notation": "1.16",
+                            "title": "beschreiben die Bedeutung des Logarithmierens als eine Umkehrung des Potenzierens und berechnen einfache Beispiele,"
+                        }, {
+                            "notation": "1.17",
+                            "title": "wählen, beschreiben und bewerten Vorgehensweisen und Verfahren, denen Algorithmen bzw. Kalküle zu Grunde liegen und führen diese aus (z. B. schriftliche Division sowie bei Wurzeln und Potenzen),"
+                        }, {
+                            "notation": "1.18",
+                            "title": "implementieren ein algorithmisches Verfahren (z. B. Heron-Verfahren zur Bestimmung von Quadratwurzeln, Intervallschachtelung) mit digitalen Mathematikwerkzeugen,"
+                        }, {
+                            "notation": "1.19",
+                            "title": "führen in konkreten Situationen systematische Zählprinzipien aus (z. B. Anzahl Händeschütteln, wenn man jeder Person die Hand gibt),"
+                        }, {
+                            "notation": "1.20",
+                            "title": "führen Zahlenfolgen fort und verwenden Variablen als allgemeine Zahl."
+                        }
+                    ]
+                }, {
+                    "notation": "2",
+                    "title": "Leitidee Größen und Messen",
+                    "description": "Diese Leitidee umfasst das Bestimmen und Deuten von Größen unter Berücksichtigung des Grundprinzips des Messens. Dabei spielen neben Längen-, Flächen- und Volumenmessungen weitere Größen wie Winkel und Zeitspannen sowie die Berücksichtigung der Sachsituation einschließlich Vorstellungen über geeignete Repräsentanten eine Rolle. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Arithmetik, Algebra und Geometrie.",
+                    "children": [{
+                            "notation": "2.1",
+                            "title": "nutzen das Grundprinzip des Messens als Vergleichen mit (Standard-)Einheiten, z. B. bei der Bestimmung von Längen, Flächeninhalten und Volumina, auch in Sachsituationen,"
+                        }, {
+                            "notation": "2.2",
+                            "title": "wählen Einheiten von Größen situationsgerecht aus (insbesondere für Zeitspannen, Masse, Geld, Länge, Fläche, Volumen und Winkel) und wandeln sie ggf. um,"
+                        }, {
+                            "notation": "2.3",
+                            "title": "schätzen Größen mit Hilfe von Vorstellungen über geeignete Repräsentanten (z. B. typisches Objekt für eine Standardgröße) und nutzen dies auch zur Plausibilitätsprüfung,"
+                        }, {
+                            "notation": "2.4",
+                            "title": "berechnen Flächeninhalt und Umfang von Rechteck, Dreieck und Kreis sowie daraus zusammengesetzten Figuren, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "2.5",
+                            "title": "berechnen Volumen und Oberflächeninhalt von Quader, Prisma, Pyramide, Zylinder, Kegel und Kugel sowie daraus zusammengesetzten Körpern, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "2.6",
+                            "title": "nehmen in ihrer Umwelt gezielt Messungen vor, auch mit Hilfe digitaler Medien (als Informationsquelle oder Messinstrument), entnehmen Maßangaben aus Quellenmaterial, führen damit Berechnungen durch und bewerten die Ergebnisse sowie den gewählten Weg in Bezug auf die Sachsituation,"
+                        }, {
+                            "notation": "2.7",
+                            "title": "berechnen Streckenlängen und Winkelgrößen, auch unter Nutzung des Satzes von Pythagoras, von trigonometrischen Beziehungen, Ähnlichkeitsbeziehungen und Sinussatz oder Kosinussatz, auch mit Hilfe digitaler Mathematikwerkzeuge."
+                        }
+                    ]
+                }, {
+                    "notation": "3",
+                    "title": "Leitidee Strukturen und funktionaler Zusammenhang",
+                    "description": "Die Leitidee umfasst funktionale Beziehungen zwischen Zahlen, Daten bzw. Größen sowie deren Darstellungen und Eigenschaften, auch unter Nutzung geeigneter digitaler Mathematikwerkzeuge. Das umfasst auch das Lösen von Gleichungen und linearen Gleichungssystemen und die Anwendung verschiedener Funktionenklassen bei der Bearbeitung von Problemen und in Sachsituationen. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Algebra und Funktionen.",
+                    "children": [{
+                            "notation": "3.1",
+                            "title": "verwenden Variablen je nach Kontext als eine feste Zahl, als eine beliebige Zahl aus einem Zahlbereich und als Veränderliche in einem bestimmten Bereich und können Beispiele für die unterschiedliche Verwendung von Variablen nennen,"
+                        }, {
+                            "notation": "3.2",
+                            "title": "stellen Terme auf, um allgemeine Zusammenhänge im Sachkontext zu beschreiben, formen sie um und interpretieren sie,"
+                        }, {
+                            "notation": "3.3",
+                            "title": "nutzen die Prozentrechnung bei Wachstumsprozessen (beispielsweise bei der Zinsrechnung), auch unter Verwendung digitaler Werkzeuge,"
+                        }, {
+                            "notation": "3.4",
+                            "title": "nutzen Maßstäbe beim Lesen und Anfertigen von Zeichnungen situationsgerecht,"
+                        }, {
+                            "notation": "3.5",
+                            "title": "erkennen und verwenden funktionale Zusammenhänge und stellen diese in verschiedenen Repräsentationen dar (sprachlich, tabellarisch, grafisch, algebraisch) und können zwischen diesen Darstellungsformen wechseln, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.6",
+                            "title": "analysieren, interpretieren und vergleichen unterschiedliche funktionale Zusammenhänge (lineare, proportionale und antiproportionale sowie quadratische Funktionen), auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.7",
+                            "title": "lösen realitätsnahe Probleme im Zusammenhang mit linearen, proportionalen und antiproportionalen Zuordnungen, ggf. auch mit Hilfe des Dreisatzes, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.8",
+                            "title": "lösen lineare und quadratische Gleichungen sowie lineare Gleichungssysteme numerisch (systematisches Probieren), algebraisch (Umformen) und grafisch (mit Hilfe von Funktionsgraphen), auch unter Einsatz digitaler Mathematikwerkzeuge, und vergleichen die Effektivität verschiedener Lösungsverfahren im Hinblick auf die jeweilige Fragestellung oder das Problem,"
+                        }, {
+                            "notation": "3.9",
+                            "title": "untersuchen Fragen der Lösbarkeit und der Lösungsvielfalt von linearen und quadratischen Gleichungen sowie linearen Gleichungssystemen und formulieren diesbezüglich Aussagen,"
+                        }, {
+                            "notation": "3.10",
+                            "title": "bestimmen kennzeichnende Merkmale von Funktionen im Funktionsterm, Graph und der Wertetabelle und stellen Beziehungen zwischen den Darstellungen her,"
+                        }, {
+                            "notation": "3.11",
+                            "title": "wenden insbesondere lineare und quadratische Funktionen sowie Exponentialfunktionen der Form f(x)=a∙b^x  bei der Beschreibung und Bearbeitung von Problemen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.12",
+                            "title": "verwenden die Sinusfunktion in der Form f(x)=a∙sin(b∙x) zur Beschreibung periodischer Vorgänge mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.13",
+                            "title": "beschreiben Veränderungen von Größen mittels Funktionen (auch nicht lineare Veränderungen), auch unter Verwendung digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "3.14",
+                            "title": "geben zu vorgegebenen Funktionen Sachsituationen an, die mit Hilfe dieser Funktion beschrieben werden können."
+                        }
+                    ]
+                }, {
+                    "notation": "4",
+                    "title": "Leitidee Raum und Form",
+                    "description": "Diese Leitidee ist auf die Entwicklung des geometrischen Vorstellungsvermögens gerichtet. Sie beinhaltet den Umgang mit Objekten in Ebene und Raum. Es geht hier sowohl um Eigenschaften und Beziehungen dieser Objekte als auch um deren Darstellungen mit geeigneten Medien einschließlich digitaler Mathematikwerkzeuge. Das zugehörige mathematische Sachgebiet der Sekundarstufe I ist die Geometrie.",
+                    "children": [{
+                            "notation": "4.1",
+                            "title": "benennen und beschreiben geometrische Objekte und Beziehungen in der Umwelt mit Hilfe mathematischer Modelle (Punkte, Winkel, Strecken, Geraden, Flächen, Körper) und ihre Zusammenhänge,"
+                        }, {
+                            "notation": "4.2",
+                            "title": "entwickeln Vorstellungen im zwei- und dreidimensionalen Raum und operieren (insbesondere verschieben, drehen, spiegeln) gedanklich mit den darin enthaltenen Objekten (Punkten, Strecken, Flächen und Körpern),"
+                        }, {
+                            "notation": "4.3",
+                            "title": "stellen ebene geometrische Figuren (z. B. Dreiecke, Vierecke) und elementare geometrische Abbildungen (z. B. Verschiebungen, Drehungen, Spiegelungen, zentrische Streckungen) im ebenen kartesischen Koordinatensystem dar, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "4.4",
+                            "title": "fertigen Netze, Schrägbilder und Modelle von ausgewählten Körpern (z. B. Quader, Prisma, Pyramide) an - auch mit Hilfe digitaler Mathematikwerkzeuge - und erkennen Körper aus ihren entsprechenden Darstellungen,"
+                        }, {
+                            "notation": "4.5",
+                            "title": "analysieren und klassifizieren geometrische Objekte der Ebene (insbesondere Winkel, Dreiecke, Vierecke) und des Raumes (insbesondere Quader, Prismen, Pyramiden, Zylinder, Kegel, Kugel),"
+                        }, {
+                            "notation": "4.6",
+                            "title": "erkennen, beschreiben und begründen Eigenschaften und Beziehungen geometrischer Objekte (z. B. Symmetrie, Idee der Kongruenz, Ähnlichkeit, Lagebeziehungen) und nutzen diese im Rahmen des Problemlösens zur Analyse von Sachsituationen,"
+                        }, {
+                            "notation": "4.7",
+                            "title": "wenden Sätze der ebenen Geometrie (insbesondere den Satz des Pythagoras, den Satz des Thales, Ähnlichkeitsbeziehungen und trigonometrische Beziehungen) bei Konstruktionen, Berechnungen, Begründungen und Beweisen an, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "4.8",
+                            "title": "zeichnen und konstruieren geometrische Figuren unter Verwendung angemessener Medien wie Zirkel, Geodreieck oder digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "4.9",
+                            "title": "untersuchen Fragen der Lösbarkeit und Lösungsvielfalt von Konstruktionsaufgaben und formulieren diesbezüglich Aussagen."
+                        }
+                    ]
+                }, {
+                    "notation": "5",
+                    "title": "Leitidee Daten und Zufall",
+                    "description": "Diese Leitidee umfasst zwei Säulen, die beschreibende Statistik und die Wahrscheinlichkeitsrechnung zur Modellierung von zufallsabhängigen Vorgängen und Risiken. Wahrscheinlichkeiten können als Prognosen von relativen Häufigkeiten bei zufallsabhängigen Vorgängen gedeutet werden, wodurch die beiden Säulen verknüpft werden. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Stochastik und Funktionen. Es werden Begriffe und Methoden zur Erhebung, Aufbereitung und Interpretation von statistischen Daten vernetzt mit solchen zur Beschreibung und Modellierung zufallsabhängiger Situationen. Die stochastische Simulation spielt bei der Verknüpfung eine wichtige Rolle. Der Umgang mit Daten und Zufallserscheinungen im Alltag und Zufallsexperimenten geschieht auch unter Verwendung einschlägiger digitaler Mathematikwerkzeuge, hier vor allem Tabellenkalkulation und Stochastiktools.",
+                    "children": [{
+                            "notation": "5.1",
+                            "title": "werten grafische Darstellungen und Tabellen von statistischen Erhebungen aus, auch mit Hilfe von Tabellenkalkulation oder Stochastiktools,"
+                        }, {
+                            "notation": "5.2",
+                            "title": "nutzen Simulationen um stochastische Fragen zu entscheiden,"
+                        }, {
+                            "notation": "5.3",
+                            "title": "planen statistische Erhebungen, auch unter den Aspekten Stichprobenauswahl und Erhebungsinstrument,"
+                        }, {
+                            "notation": "5.4",
+                            "title": "sammeln systematisch Daten (z. B. Messwerte, Daten aus Befragungen oder Internet), organisieren sie in Tabellen und stellen sie grafisch dar, auch unter Verwendung geeigneter Hilfsmittel wie Tabellenkalkulation oder Stochastiktools,"
+                        }, {
+                            "notation": "5.5",
+                            "title": "ermitteln und interpretieren Kenngrößen (z. B. Minimum, Maximum, arithmetisches Mittel, Median, Spannweite, Quartile),"
+                        }, {
+                            "notation": "5.6",
+                            "title": "erstellen und interpretieren Diagramme (z. B. Säulen- oder Balkendiagramm, Histogramme, Kreisdiagramm, Liniendiagramm, Boxplot), auch mit Hilfe digitaler Mathematikwerkzeuge und begründen die gewählte Darstellungsform,"
+                        }, {
+                            "notation": "5.7",
+                            "title": "reflektieren mit Hilfe der mathematischen Kenntnisse den Umgang mit und die Darstellung von Daten in Medien, etwa in Bezug auf die Absicht und mögliche Wirkungen der Darstellung,"
+                        }, {
+                            "notation": "5.8",
+                            "title": "beschreiben Zufallserscheinungen und interpretieren Wahrscheinlichkeitsaussagen und ihre Darstellungen in Medien,"
+                        }, {
+                            "notation": "5.9",
+                            "title": "Nutzen und deuten bei der Durchführung von Zufallsexperimenten die auftretenden relativen Häufigkeiten als Schätzwerte von Wahrscheinlichkeiten, die bei wachsendem Stichprobenumfang besser werden,"
+                        }, {
+                            "notation": "5.10",
+                            "title": "bestimmen Wahrscheinlichkeiten bei ein- oder mehrstufigen Zufallsexperimenten, auch mit Hilfe entsprechender Visualisierungen (z. B. Baumdiagramm, Vierfeldertafel), ohne und mit Hilfe digitaler Mathematikwerkzeuge,"
+                        }, {
+                            "notation": "5.11",
+                            "title": "bestimmen bedingte Wahrscheinlichkeiten bei Modellierungen mit Hilfe entsprechender Visualisierungen der Häufigkeiten; ohne und mit Hilfe digitaler Mathematikwerkzeuge."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
