@@ -1,0 +1,180 @@
+{
+  "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/1ead08b4-4f12-4e59-a6ac-a29f36dde13d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F1ead08b4-4f12-4e59-a6ac-a29f36dde13d",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F1ead08b4-4f12-4e59-a6ac-a29f36dde13d",
+  "prefLabel": {
+    "de": "Leitidee Daten und Zufall"
+  },
+  "definition": {
+    "de": "Diese Leitidee umfasst zwei Säulen, die beschreibende Statistik und die Wahrscheinlichkeitsrechnung zur Modellierung von zufallsabhängigen Vorgängen und Risiken. Wahrscheinlichkeiten können als Prognosen von relativen Häufigkeiten bei zufallsabhängigen Vorgängen gedeutet werden, wodurch die beiden Säulen verknüpft werden. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Stochastik und Funktionen. Es werden Begriffe und Methoden zur Erhebung, Aufbereitung und Interpretation von statistischen Daten vernetzt mit solchen zur Beschreibung und Modellierung zufallsabhängiger Situationen. Die stochastische Simulation spielt bei der Verknüpfung eine wichtige Rolle. Der Umgang mit Daten und Zufallserscheinungen im Alltag und Zufallsexperimenten geschieht auch unter Verwendung einschlägiger digitaler Mathematikwerkzeuge, hier vor allem Tabellenkalkulation und Stochastiktools."
+  },
+  "notation": [
+    "5"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/1cf35df6-f525-4a3b-9f03-32935d8097f0",
+      "prefLabel": {
+        "de": "nutzen Simulationen um stochastische Fragen zu entscheiden "
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/50befd71-4ed4-47f9-ad70-63b684c88616",
+      "prefLabel": {
+        "de": "erstellen und interpretieren Diagramme (z. B. Säulen- oder Balkendiagramm, Kreisdiagramm, Liniendiagramm), auch mit Hilfe digitaler Mathematikwerkzeuge,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/7147b4ea-0459-4f5b-a524-a8fe406f554e",
+      "prefLabel": {
+        "de": "planen einfache Befragungen,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/8ba1311c-c813-4715-b3db-54a3a7a204dc",
+      "prefLabel": {
+        "de": "werten grafische Darstellungen und Tabellen von statistischen Erhebungen aus, auch mit Hilfe von Tabellenkalkulation oder Stochastiktools,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/9967449e-2e9f-4b73-be84-5238e8b662ba",
+      "prefLabel": {
+        "de": "reflektieren mit Hilfe der mathematischen Kenntnisse den Umgang mit und die Darstellung von Daten in Medien, etwa in Bezug auf die Absicht und mögliche Wirkungen der Darstellung,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/a58148b0-f112-4337-b741-d73c558bb403",
+      "prefLabel": {
+        "de": "ermitteln und interpretieren Kenngrößen (z. B. Minimum, Maximum, arithmetisches Mittel, Median, Spannweite),"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/b362b3a7-de3d-4b2c-83bb-363d18cc837f",
+      "prefLabel": {
+        "de": "beschreiben Zufallserscheinungen aus dem Alltag und ihre Darstellung in Medien,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/c4cbe536-0b1e-4bb8-9b6b-0926d0d4eb2e",
+      "prefLabel": {
+        "de": "sammeln systematisch Daten (z. B. Messwerte, Daten aus Befragungen oder Internet), organisieren sie in Tabellen und stellen sie grafisch dar, auch unter Verwendung geeigneter Hilfsmittel wie Tabellenkalkulation oder Stochastiktools,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/e40f1bcb-4fdc-479c-a3e9-d625da097630",
+      "prefLabel": {
+        "de": "bestimmen Wahrscheinlichkeiten bei einfachen Zufallsexperimenten, ohne und mit Hilfe digitaler Mathematikwerkzeuge."
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/f08ba478-b787-4200-b201-c63565da1909",
+      "prefLabel": {
+        "de": "nutzen bei der Durchführung von Zufallsexperimenten die auftretenden relativen Häufigkeiten als Schätzwerte von Wahrscheinlichkeiten, die bei wachsendem Stichprobenumfang besser werden,"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/",
+    "prefLabel": {
+      "de": "Inhaltsbezogene Kompetenzen ESA"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/iqb/bista22mas1/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

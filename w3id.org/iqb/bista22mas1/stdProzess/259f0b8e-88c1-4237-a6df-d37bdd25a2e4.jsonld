@@ -1,0 +1,138 @@
+{
+  "id": "https://w3id.org/iqb/bista22mas1/stdProzess/259f0b8e-88c1-4237-a6df-d37bdd25a2e4",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdProzess%2F259f0b8e-88c1-4237-a6df-d37bdd25a2e4",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdProzess%2F259f0b8e-88c1-4237-a6df-d37bdd25a2e4",
+  "prefLabel": {
+    "de": "Mathematisch kommunizieren"
+  },
+  "definition": {
+    "de": "Zu dieser Kompetenz gehören sowohl das Entnehmen von Informationen aus Texten, mündlichen Äußerungen oder sonstigen Quellen als auch das Darlegen von Überlegungen, Lösungswegen bzw. Ergebnissen in mündlicher und schriftlicher Form auch unter Verwendung einer adressatengerechten Fachsprache. Das Spektrum reicht von der direkten Informationsentnahme aus Texten des Alltagsgebrauchs bzw. vom Aufschreiben einfacher Lösungswege bis hin zum sinnentnehmenden Erfassen fachsprachlicher Texte bzw. vom Dokumentieren einfacher Lösungswege zum strukturierten Darlegen oder Präsentieren eigener Überlegungen, auch mit Hilfe geeigneter Medien."
+  },
+  "notation": [
+    "2"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/795cf2da-c928-405f-9f24-ea78c1f38a56",
+      "prefLabel": {
+        "de": "Verallgemeinern und Reflektieren"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/cdd21bb3-1440-4107-8cda-dd49a92361d0",
+      "prefLabel": {
+        "de": "Reproduzieren"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/f913e923-79e0-47ae-ba71-10e6d434a465",
+      "prefLabel": {
+        "de": "Zusammenhänge  herstellen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/iqb/bista22mas1/stdProzess/",
+    "prefLabel": {
+      "de": "Prozessbezogene Kompetenzen"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/iqb/bista22mas1/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "https://test.skohub.io/testworkflow/w3id.org/iqb/bista22mas1/stdInhaltESA/47fca1b2-8ca6-4f0e-863c-5c0f9f6ca5a9",
+  "type": "Service",
+  "preferredUsername": "74657374776f726b666c6f772f773369642e6f72672f6971622f626973746132326d6173312f737464496e68616c744553412f34376663613162322d386361362d346630652d383633632d356330663966366361356139",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F47fca1b2-8ca6-4f0e-863c-5c0f9f6ca5a9",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F47fca1b2-8ca6-4f0e-863c-5c0f9f6ca5a9",
+  "publicKey": {
+    "id": "https://test.skohub.io/testworkflow/w3id.org/iqb/bista22mas1/stdInhaltESA/47fca1b2-8ca6-4f0e-863c-5c0f9f6ca5a9#main-key",
+    "owner": "https://test.skohub.io/testworkflow/w3id.org/iqb/bista22mas1/stdInhaltESA/47fca1b2-8ca6-4f0e-863c-5c0f9f6ca5a9",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

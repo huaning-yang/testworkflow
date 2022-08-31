@@ -1,0 +1,138 @@
+{
+  "id": "https://w3id.org/iqb/bista22mas1/stdProzess/c8478511-9a50-4ae0-9cd4-dd8603ff4d84",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdProzess%2Fc8478511-9a50-4ae0-9cd4-dd8603ff4d84",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdProzess%2Fc8478511-9a50-4ae0-9cd4-dd8603ff4d84",
+  "prefLabel": {
+    "de": "Mit Medien mathematisch umgehen"
+  },
+  "definition": {
+    "de": "Mathematische Bildung in der digitalen Welt umfasst: Fachliche Kompetenzen digital zu fördern und digitale Kompetenzen fachlich zu fördern. Darüber hinaus sollte ein Beitrag geleistet werden zur digitalen personalen Bildung, um Mathematik für die kritische Rezeption von Alltagsmedien zu nutzen. Dazu gehört der Umgang analoger Medien (Schulbuch, Lineal, Körpermodell, Formelsammlung, Spielwürfel, ...) im Verbund mit digitalen Medien. Digitale Medien, die für das Lernen und Lehren von Mathematik relevant sind, umfassen mathematikspezifische sowie allgemeine Medien. Mathematikspezifisch sind insbesondere digitale Mathematikwerkzeuge als themenübergreifende Medien, aber auch themenspezifische mathematikhaltige Medien (z. B. Apps, interaktive Lernangebote). Allgemeine Medien (z. B. Videos, Textverarbeitung, Präsentationsmedien) spielen eine Rolle, da Sie erfordern, mathematikhaltige Informationen zu bündeln, zu präsentieren und nach mathematischen Kriterien zu beurteilen. Das Spektrum der Kompetenzen reicht von der Nutzung analoger Medien, der kritischen Prüfung von Informationen der digitalen Welt unter mathematischen Gesichtspunkten, der Verwendung digitaler Mathematikwerkzeuge (z. B. Tabellenkalkulation oder Geometriesoftware) und Lernumgebungen über die Erstellung und Gestaltung eigener allgemeiner Medien wie Videos und Präsentationen bis hin zur bewussten Verwendung, Entwicklung und Reflexion von Algorithmen mit Hilfe digitaler Medien."
+  },
+  "notation": [
+    "7"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/53ffbffb-c092-4a59-b240-fa36c29d98ae",
+      "prefLabel": {
+        "de": "Zusammenhänge  herstellen"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/be5c57e0-209c-47d3-b888-9e9d6d2e3c04",
+      "prefLabel": {
+        "de": "Verallgemeinern und Reflektieren"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/6ce9afa4-31a5-499a-ab93-1a524eec2288",
+      "prefLabel": {
+        "de": "Reproduzieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/iqb/bista22mas1/stdProzess/",
+    "prefLabel": {
+      "de": "Prozessbezogene Kompetenzen"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/iqb/bista22mas1/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/70255928-64f9-4824-b4d6-3cd99a52b7f9",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F70255928-64f9-4824-b4d6-3cd99a52b7f9",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F70255928-64f9-4824-b4d6-3cd99a52b7f9",
+  "prefLabel": {
+    "de": "Leitidee Zahl und Operation"
+  },
+  "definition": {
+    "de": "Diese  Leitidee umfasst sinntragende Vorstellungen und Darstellungen von Zahlen und Operationen sowie die Nutzung von Rechengesetzen und Kontrollverfahren. Dazu gehört zum Beispiel die sachgerechte Nutzung von Prozent- und Zinsrechnung. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind die Arithmetik und Algebra"
+  },
+  "notation": [
+    "1"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/0bb5faef-8929-4509-bf81-5b48f388c96d",
+      "prefLabel": {
+        "de": "wählen und beschreiben Vorgehensweisen und Verfahren, denen Algorithmen bzw. Kalküle zu Grunde liegen und führen diese aus (z. B. schriftliche Division)."
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/10bcbafe-8a88-489b-9ef5-ef089aa45a1b",
+      "prefLabel": {
+        "de": "nutzen Überschlagsrechnungen zur Orientierung und zur Kontrolle,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/41e98f39-7f8b-45c3-9940-4f01d716fd19",
+      "prefLabel": {
+        "de": "stellen Zahlen der Situation angemessen dar, unter anderem in Zehnerpotenzschreibweise,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/4a248c6c-a92a-4c84-8ac4-20b8b1c7a9fa",
+      "prefLabel": {
+        "de": "rechnen mit natürlichen, ganzen und rationalen Zahlen, die im täglichen Leben vorkommen, sowohl zur Kontrolle als auch im Kopf und erklären die Bedeutung der Rechenoperationen,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/5a19da84-8184-4e3e-9462-3c9c06529d46",
+      "prefLabel": {
+        "de": "erläutern Potenzen und Wurzeln und berechnen einfache Potenzen und Wurzeln (Quadrat- und Kubikwurzeln),"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/6f8beebe-bfcb-4992-9258-16a586c96d60",
+      "prefLabel": {
+        "de": "verwenden Prozent- und Zinsrechnung vorstellungsbasiert (z. B. Prozentstreifen) und sachgerecht,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/90ba5452-3254-48f6-beeb-d2c28cda21d7",
+      "prefLabel": {
+        "de": "nutzen sinntragende Vorstellungen von Operationen rationaler Zahlen (z. B. schrittweiser, halbschriftlicher Verfahren),"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/af57962d-e452-4fd5-ac1f-2d6925219234",
+      "prefLabel": {
+        "de": "begründen die Notwendigkeit von Zahlbereichserweiterungen von N nach Z und Q an Beispielen,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/afbbf2c3-083a-4066-a82c-69cef4803d22",
+      "prefLabel": {
+        "de": "erläutern an Beispielen die verschiedenen Vorstellungen zum Bruchbegriff (insbesondere Teile eines oder mehrerer Ganzer, relative Anteile),"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/b202d93b-abc9-442c-8a22-a94594cb4ae1",
+      "prefLabel": {
+        "de": "prüfen und interpretieren Ergebnisse, auch in Sachsituationen,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/c0ea6c10-6281-4546-8e9b-e010715b03c1",
+      "prefLabel": {
+        "de": "nutzen sinntragende Vorstellungen von rationalen Zahlen, insbesondere von natürlichen, ganzen und gebrochenen Zahlen entsprechend der Verwendungsnotwendigkeit,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/c29e85f6-5c92-4d30-904c-1461c673c5cd",
+      "prefLabel": {
+        "de": "erläutern an Beispielen den Zusammenhang zwischen Rechenoperationen und deren Umkehrungen und nutzen diese Zusammenhänge,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/c68cc574-6e8c-4e9a-820e-e793d8cbfa0e",
+      "prefLabel": {
+        "de": "untersuchen Zahlen nach ihren Faktoren, in einfachen Fällen ohne digitale Mathematikwerkzeuge,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/d544d321-0d0a-4e46-bb0d-60362d55a4c6",
+      "prefLabel": {
+        "de": "runden Zahlen dem Sachverhalt entsprechend sinnvoll,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/f0c9dbcc-82a4-4533-b42c-0a32f959121e",
+      "prefLabel": {
+        "de": "nutzen Rechengesetze (z. B. Kommutativ-, Assoziativ-, Distributivgesetz), auch zum vorteilhaften Rechnen,"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/",
+    "prefLabel": {
+      "de": "Inhaltsbezogene Kompetenzen ESA"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/iqb/bista22mas1/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

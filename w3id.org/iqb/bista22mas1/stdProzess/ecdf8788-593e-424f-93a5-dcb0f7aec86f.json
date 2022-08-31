@@ -1,0 +1,141 @@
+{
+  "id": "https://w3id.org/iqb/bista22mas1/stdProzess/ecdf8788-593e-424f-93a5-dcb0f7aec86f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdProzess%2Fecdf8788-593e-424f-93a5-dcb0f7aec86f",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdProzess%2Fecdf8788-593e-424f-93a5-dcb0f7aec86f",
+  "prefLabel": {
+    "de": "Zusammenhänge  herstellen"
+  },
+  "notation": [
+    "1.2"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/79a150d3-d3ea-493f-b351-dabe6356c363",
+      "prefLabel": {
+        "de": "bewerten Ergebnisse und Aussagen auch bzgl. ihres Anwendungskontextes,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/80fe07eb-8f2c-4336-9578-a82259185ca4",
+      "prefLabel": {
+        "de": "erläutern Lösungswege und prüfen sie u. a. auf Konsistenz,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/943b2c37-3ed9-46a8-b6ce-19097f544b1e",
+      "prefLabel": {
+        "de": "entwickeln und erläutern überschaubare mehrschrittige Argumentationen,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdProzess/cbd49880-4e80-4090-a43a-289e30e1168c",
+      "prefLabel": {
+        "de": "erläutern mathematische Zusammenhänge, Ordnungen und logische Strukturen,"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/iqb/bista22mas1/stdProzess/21267a73-cf59-4cca-822c-818b9f632a5c",
+    "prefLabel": {
+      "de": "Mathematisch argumentieren"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/iqb/bista22mas1/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}

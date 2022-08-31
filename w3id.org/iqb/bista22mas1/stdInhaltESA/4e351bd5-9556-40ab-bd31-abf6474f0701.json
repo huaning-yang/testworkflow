@@ -1,0 +1,192 @@
+{
+  "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/4e351bd5-9556-40ab-bd31-abf6474f0701",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F4e351bd5-9556-40ab-bd31-abf6474f0701",
+  "inbox": "https://test.skohub.io/inbox?target=testworkflow%2Fw3id.org%2Fiqb%2Fbista22mas1%2FstdInhaltESA%2F4e351bd5-9556-40ab-bd31-abf6474f0701",
+  "prefLabel": {
+    "de": "Leitidee Strukturen und funktionaler Zusammenhang"
+  },
+  "definition": {
+    "de": "Die Leitidee umfasst funktionale Beziehungen zwischen Zahlen, Daten bzw. Größen sowie deren Darstellungen und Eigenschaften, auch unter Nutzung geeigneter digitaler Mathematikwerkzeuge. Das umfasst auch das Lösen von Gleichungen und linearen Gleichungssystemen und die Anwendung verschiedener Funktionenklassen bei der Bearbeitung von Problemen und in Sachsituationen. Die darauf bezogenen mathematischen Sachgebiete der Sekundarstufe I sind Algebra und Funktionen."
+  },
+  "notation": [
+    "3"
+  ],
+  "narrower": [
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/094bc1a6-6fd8-4d7b-ae73-0ec7cfed9fa0",
+      "prefLabel": {
+        "de": "nutzen Maßstäbe beim Lesen und Anfertigen von Zeichnungen situationsgerecht,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/2955ac1e-d6f6-4613-bd4c-d37d5d0b8c0b",
+      "prefLabel": {
+        "de": "unterscheiden proportionale und antiproportionale Zusammenhänge in Sachsituationen und stellen damit Berechnungen an,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/41a06f97-13b5-43f7-b6a0-371a28e52b23",
+      "prefLabel": {
+        "de": "erkennen und verwenden funktionale Zusammenhänge in Alltagssituationen und stellen diese in verschiedenen Repräsentationen dar (sprachlich, tabellarisch, grafisch, lineare Funktionen auch algebraisch) und können zwischen diesen Darstellungsformen wechseln, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/4e0d6386-a623-44ca-9211-4f901881de14",
+      "prefLabel": {
+        "de": "nutzen die Prozentrechnung bei Wachstumsprozessen (beispielsweise bei der Zinsrechnung), auch unter Verwendung digitaler Werkzeuge,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/6fcf05d2-f748-47d1-ab6a-6de89156db95",
+      "prefLabel": {
+        "de": "bestimmen kennzeichnende Merkmale von linearen Funktionen im Funktionsterm, Graph und der Wertetabelle und stellen Beziehungen zwischen den Darstellungen her,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/85086c6b-c2da-49df-8ea7-09e11253daac",
+      "prefLabel": {
+        "de": "interpretieren die Steigung linearer Funktionen im Sachzusammenhang,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/9364ae49-de25-4855-95bb-cd5c31efd70b",
+      "prefLabel": {
+        "de": "lösen realitätsnahe Probleme im Zusammenhang mit linearen, proportionalen und antiproportionalen Zuordnungen, ggf. auch mit Hilfe des Dreisatzes, auch mit Hilfe digitaler Mathematikwerkzeuge,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/9dc16208-f7b5-4ada-82a5-460d57b69356",
+      "prefLabel": {
+        "de": "geben zu vorgegebenen linearen Funktionen Sachsituationen an, die mit Hilfe dieser Funktion beschrieben werden können."
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/aee43de8-c8ad-4c84-b169-0a2e9282730a",
+      "prefLabel": {
+        "de": "lösen einfache lineare Gleichungen numerisch (systematisches Probieren), algebraisch (Umformen) und grafisch (mit Hilfe von Funktionsgraphen), auch unter Einsatz digitaler Mathematikwerkzeuge, und vergleichen verschiedene Lösungsverfahren im Hinblick auf die jeweilige Fragestellung oder das Problem,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/d0931eda-6f82-47f0-99b4-4ade34db3e13",
+      "prefLabel": {
+        "de": "wenden lineare Funktionen in Sachsituationen an,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/fa255921-1458-4f1e-aee5-1731c6b5617e",
+      "prefLabel": {
+        "de": "stellen einfache Terme, um allgemeine Zusammenhänge im Sachkontext zu beschreiben, formen sie um und interpretieren sie,"
+      }
+    },
+    {
+      "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/fc6425d8-67ad-489d-b935-a7b4df53aba5",
+      "prefLabel": {
+        "de": "verwenden Variablen je nach Kontext als eine feste Zahl, als eine beliebige Zahl aus einem Zahlbereich und als Veränderliche in einem bestimmten Bereich und können Beispiele für die unterschiedliche Verwendung von Variablen nennen,"
+      }
+    }
+  ],
+  "broader": {
+    "id": "https://w3id.org/iqb/bista22mas1/stdInhaltESA/",
+    "prefLabel": {
+      "de": "Inhaltsbezogene Kompetenzen ESA"
+    }
+  },
+  "inScheme": {
+    "id": "https://w3id.org/iqb/bista22mas1/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "example": {
+      "@container": "@language"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "related": {
+      "@container": "@set"
+    },
+    "relatedMatch": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "broadMatch": {
+      "@container": "@set"
+    },
+    "narrowMatch": {
+      "@container": "@set"
+    },
+    "closeMatch": {
+      "@container": "@set"
+    },
+    "exactMatch": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox",
+    "hasTopConcept": {
+      "@container": "@set"
+    }
+  }
+}
