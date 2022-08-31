@@ -39,7 +39,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: build the data dir
-        run: python json2ttl.py data2022mas1.json bista22mas1
+        run: python json2ttl.py data2022MaSek1.json bista22mas1
 
       - name: make .env.production file
         run: echo "BASEURL=/${{ github.event.repository.name }}" > .env.production
